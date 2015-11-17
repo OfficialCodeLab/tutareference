@@ -1,0 +1,15 @@
+{
+	"AS_Form_bd056319e65242dcadc75032923c048c": {
+		"id": "AS_Form_bd056319e65242dcadc75032923c048c",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__471ffbaf5b1542b18bbe63043bf3c116",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "tuta.forms.frmExample.show();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

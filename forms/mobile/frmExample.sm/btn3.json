@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "39dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s544d2ba55a24e068bf7eea9b4ce5634",
+    "_text_": "Top Menu",
+    "_top_": {
+        "type": "string",
+        "value": "307dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "s254392e19e744e5a2b01e67dd4f6349",
+    "focusskin": "s254392e19e744e5a2b01e67dd4f6349",
+    "height": "50dp",
+    "id": "btn3",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "749519b0fbf1488a91a56251c1fae796",
+    "left": "39dp",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "flexMain",
+    "pf": "frmExample",
+    "render": true,
+    "skin": "s544d2ba55a24e068bf7eea9b4ce5634",
+    "text": "Top Menu",
+    "top": "307dp",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "260dp",
+    "zIndex": 1,
+    "zindex": 1
+}

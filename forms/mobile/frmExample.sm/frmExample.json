@@ -1,0 +1,347 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_headers_": [
+        {
+            "DNDConfig": null,
+            "_height_": {
+                "type": "string",
+                "value": "10%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "se270ee6c3f342fcbbdffb0b62680da0",
+            "allboxes": [],
+            "autogrowMode": 0,
+            "autogrowmode": 0,
+            "btnMenu": {
+                "@class": "com.kony.gen.viz.model.component.KVizButton",
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_height_": {
+                    "type": "string",
+                    "value": "100%"
+                },
+                "_left_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_margin_": [
+                    6,
+                    6,
+                    6,
+                    6
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_skin_": "s544d2ba55a24e068bf7eea9b4ce5634",
+                "_text_": "O",
+                "_top_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_width_": {
+                    "type": "string",
+                    "value": "10%"
+                },
+                "canUpdateUI": true,
+                "containerId": true,
+                "containerWeight": 100,
+                "containerweight": 100,
+                "contentAlignment": 5,
+                "contentalignment": 5,
+                "displayText": true,
+                "displaytext": true,
+                "enabled": false,
+                "focusSkin": "s254392e19e744e5a2b01e67dd4f6349",
+                "focusskin": "s254392e19e744e5a2b01e67dd4f6349",
+                "genericProperties": {},
+                "height": "100%",
+                "id": "btnMenu",
+                "info": null,
+                "isSegmentChild": false,
+                "isVisible": true,
+                "isvisible": true,
+                "kuid": "6d9d005f314945849ca462a606241762",
+                "left": "0dp",
+                "margin": [
+                    6,
+                    6,
+                    6,
+                    6
+                ],
+                "name": "kony.ui.Button",
+                "padding": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "parent": "flexMyHeader",
+                "pf": "hdrStandard",
+                "render": true,
+                "skin": "s544d2ba55a24e068bf7eea9b4ce5634",
+                "text": "O",
+                "top": "0dp",
+                "undoPropsStorage": {},
+                "wType": "Button",
+                "widgetAlignment": 5,
+                "width": "10%"
+            },
+            "canUpdateUI": true,
+            "children": [
+                "btnMenu"
+            ],
+            "clipBounds": true,
+            "clipbounds": true,
+            "containerId": true,
+            "containerWeight": 100,
+            "containerweight": 100,
+            "enableScrolling": true,
+            "enabled": false,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "height": "10%",
+            "id": "flexMyHeader",
+            "info": null,
+            "isSegmentChild": false,
+            "isVisible": true,
+            "isvisible": true,
+            "kuid": "3cfc23b135af49628154c382cd88e66a",
+            "layoutType": 2,
+            "layouttype": 2,
+            "margin": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "name": "kony.ui.FlexContainer",
+            "orientation": 6,
+            "padding": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "parent": "hdrStandard",
+            "percent": true,
+            "pf": "hdrStandard",
+            "render": true,
+            "skin": "se270ee6c3f342fcbbdffb0b62680da0",
+            "snapGridSize": 10,
+            "snapToGrid": true,
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetAlignment": 1,
+            "widgetalignment": 1
+        }
+    ],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9df8ed62f0549f597a4994a44408c46",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flexMain",
+        "flexMenu",
+        "flexRightMenu",
+        "flexTopMenu"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentOffsetX": 0,
+    "contentOffsetY": 0,
+    "contentSizeHeight": 0,
+    "contentSizeWidth": 0,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone6",
+    "displayOrientation": 1,
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledForIdleTimeout": false,
+    "enabledforidletimeout": false,
+    "header": "frmExample_header",
+    "headersId": "a36078200352401796dca43672abc10c",
+    "id": "frmExample",
+    "info": null,
+    "initdone": false,
+    "inputAccessoryViewType": 4,
+    "inputaccessoryviewtype": 4,
+    "invokedProperty": "headers",
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "eadb1a1cad41475b90cf38556fb84ee6",
+    "layoutType": 2,
+    "layouttype": 2,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Form2",
+    "needAppMenu": true,
+    "needappmenu": true,
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "render": true,
+    "retainScrollPosition": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "skin": "s9df8ed62f0549f597a4994a44408c46",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "title": null,
+    "titleBar": true,
+    "titleBarModel": {
+        "DNDConfig": null,
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "sc74f207b59b41c2bffdb15d8210c6db",
+        "_text_": "",
+        "_visible_": true,
+        "buttonClosureLeftSideView": "",
+        "buttonClosureRightSideView": "",
+        "buttonText": "Edit",
+        "buttonclosureleftsideview": "",
+        "buttonclosurerightsideview": "",
+        "buttontext": "Edit",
+        "canUpdateUI": true,
+        "containerWeight": 0,
+        "containerweight": 0,
+        "enabled": false,
+        "id": "frmExample_titleBar",
+        "ide_buttonClosureLeftSideView": "",
+        "ide_buttonClosureRightSideView": "",
+        "ide_titleClosureLeftSideView": "",
+        "ide_titleClosureRightSideView": "",
+        "info": null,
+        "isVisible": true,
+        "isvisible": true,
+        "leftButtonText": "Back",
+        "leftTitle": "Back",
+        "leftbuttontext": "Back",
+        "lefttitle": "Back",
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "kony.ui.TitleBar",
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "prevFormTitle": false,
+        "prevformtitle": false,
+        "render": true,
+        "renderTitleText": true,
+        "rendertitletext": true,
+        "rightTitle": "Edit",
+        "righttitle": "Edit",
+        "skin": "sc74f207b59b41c2bffdb15d8210c6db",
+        "text": "",
+        "titleBarLeftSideView": "button",
+        "titleBarRightSideView": "button",
+        "titleClosureLeftSideView": "",
+        "titleClosureRightSideView": "",
+        "titlebarleftsideview": "button",
+        "titlebarrightsideview": "button",
+        "titleclosureleftsideview": "",
+        "titleclosurerightsideview": "",
+        "visible": true,
+        "wType": "TitleBar",
+        "widgetAlignment": 5
+    },
+    "titleBarSkin": "sc74f207b59b41c2bffdb15d8210c6db",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "widgetAlignment": 5
+}
